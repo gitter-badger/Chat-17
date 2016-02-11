@@ -1,0 +1,2 @@
+# Chat
+BrewBrawlers Chat Room
